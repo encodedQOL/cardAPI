@@ -1,3 +1,1 @@
-// API 
-
-This is where card api will go, along with winners and stuff 
+// Winners, highscores ect all calculated and saved from here //
